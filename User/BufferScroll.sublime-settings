@@ -1,3 +1,8 @@
 {
-	"version": 7
+	"version": 7,
+
+	/* disable having two windows scroll between themselves
+	allow different windows to have fancy things*/
+	"synch_scroll" : false,
+	"i_use_cloned_views" :true
 }
